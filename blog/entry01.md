@@ -1,7 +1,7 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Fashion and designing 
+##### 10/27/26
 
-Text
+
 
 [Next](entry02.md)
 
